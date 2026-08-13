@@ -1,5 +1,7 @@
 namespace HelpDesk.Tests;
+
 using HelpDesk.Entidades;
+using NUnit.Framework;
 
 public class TicketManagerTest
 {
