@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "Error al iniciar",
+    "Descripcion": "La app no arranca",
+    "Prioridad": 2,
+    "Estado": 0,
+    "FechaCreacion": "2026-08-13T12:34:45.47383-03:00"
+  },
+  {
+    "Id": 2,
+    "Titulo": "Error al iniciar",
+    "Descripcion": "La app no funciona",
+    "Prioridad": 2,
+    "Estado": 0,
+    "FechaCreacion": "2026-08-13T18:21:54.8424746-03:00"
+  }
+]
