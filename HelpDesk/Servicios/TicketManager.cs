@@ -1,4 +1,5 @@
 ﻿namespace HelpDesk;
+using HelpDesk.Entidades;
 
 public class TicketManager
 {
